@@ -8,3 +8,20 @@
   font-family: 'Alata', sans-serif;
   font-family: 'Josefin Sans', sans-serif;
 }
+
+@keyframes fadeInDown {
+  0% {
+      opacity: 0;
+      -webkit-transform: translateY(-40px);
+  }
+  100% {
+      opacity: 1;
+      -webkit-transform: translateY(0);
+  }
+}
+
+@keyframes spin {
+  0% {transform:rotate(0deg);}
+  50% {transform:rotate(0deg);}
+  100% {transform:rotate(180deg);}
+}
