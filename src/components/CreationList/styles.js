@@ -48,6 +48,9 @@ export const Button = styled.button`
   font-weight: 400;
   margin: 20px 0;
   letter-spacing: 5px;
+  :hover {
+    cursor: pointer;
+  }
   @media(min-width: 900px) {
     margin: 0;
     font-size: 1vw;

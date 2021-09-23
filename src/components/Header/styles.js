@@ -10,6 +10,7 @@ export const HeaderDiv = styled.header`
   @media(min-width: 900px) {
     width: 80vw;
     margin: 0 10vw;
+    padding: 5vw 0;
   }
 `;
 
@@ -46,4 +47,9 @@ export const A = styled.a`
   text-decoration: none;
   color: white;
   font-size: ${(props) => (props.desktop ? '12px' : '30px')};
+  :hover {
+    cursor: pointer;
+    margin-bottom: -1px;
+    border-bottom: 1px solid white;
+  }
 `;
