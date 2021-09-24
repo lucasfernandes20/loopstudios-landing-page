@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/loopstudios-landing-page/static/css/main.17195e10.chunk.css",
+    "main.css": "/loopstudios-landing-page/static/css/main.6c970b8b.chunk.css",
     "main.js": "/loopstudios-landing-page/static/js/main.e3a20094.chunk.js",
     "main.js.map": "/loopstudios-landing-page/static/js/main.e3a20094.chunk.js.map",
     "runtime-main.js": "/loopstudios-landing-page/static/js/runtime-main.0247561a.js",
@@ -10,13 +10,13 @@
     "static/js/3.482ca911.chunk.js": "/loopstudios-landing-page/static/js/3.482ca911.chunk.js",
     "static/js/3.482ca911.chunk.js.map": "/loopstudios-landing-page/static/js/3.482ca911.chunk.js.map",
     "index.html": "/loopstudios-landing-page/index.html",
-    "static/css/main.17195e10.chunk.css.map": "/loopstudios-landing-page/static/css/main.17195e10.chunk.css.map",
+    "static/css/main.6c970b8b.chunk.css.map": "/loopstudios-landing-page/static/css/main.6c970b8b.chunk.css.map",
     "static/js/2.a3a24bcc.chunk.js.LICENSE.txt": "/loopstudios-landing-page/static/js/2.a3a24bcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0247561a.js",
     "static/js/2.a3a24bcc.chunk.js",
-    "static/css/main.17195e10.chunk.css",
+    "static/css/main.6c970b8b.chunk.css",
     "static/js/main.e3a20094.chunk.js"
   ]
 }
