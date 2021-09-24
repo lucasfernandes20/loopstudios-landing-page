@@ -9,6 +9,10 @@
   font-family: 'Josefin Sans', sans-serif;
 }
 
+#root {
+  overflow: hidden;
+}
+
 @keyframes fadeInDown {
   0% {
       opacity: 0;
